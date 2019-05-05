@@ -1,0 +1,9 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+authors = ["Vincent COURTIN <vincent.courtin@link-value.fr>"]
+edition = "2018"
+
+[dependencies]
+
+rand = "0.3.14"
